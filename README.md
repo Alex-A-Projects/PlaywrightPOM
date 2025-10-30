@@ -13,20 +13,4 @@ This framework demonstrates modern test architecture with reusable page objects,
 - ⚙️ Easy CI/CD integration (GitHub Actions, Jenkins)
 - 📊 Generates HTML test reports automatically
 
----
 
-## 📁 Project Structure
-
-PlaywrightPOM/
-├── pages/
-│   ├── LoginPage.js
-│   ├── HomePage.js
-│   └── CartPage.js
-│
-├── tests/
-│   └── Pomtest.spec.js
-│
-├── playwright.config.js
-├── package.json
-├── .gitignore
-└── README.md
