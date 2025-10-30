@@ -17,15 +17,14 @@ This framework demonstrates modern test architecture with reusable page objects,
 
 ## 📁 Project Structure
 
-
 PlaywrightPOM/
 ├── pages/
-│ ├── LoginPage.js
-│ ├── HomePage.js
-│ └── CartPage.js
+│   ├── LoginPage.js
+│   ├── HomePage.js
+│   └── CartPage.js
 │
 ├── tests/
-│ └── Pomtest.spec.js
+│   └── Pomtest.spec.js
 │
 ├── playwright.config.js
 ├── package.json
